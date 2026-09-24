@@ -1,4 +1,4 @@
-# Pali Portfolio — GitHub Pages
+# Saurabh Portfolio — GitHub Pages
 
 A one-page editorial portfolio template inspired by modern creative portfolios. It is intentionally original, with placeholder projects and copy.
 
