@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#c5d8ea"/>
+<circle cx="900" cy="270" r="235" fill="none" stroke="#102233" stroke-width="24" opacity=".55"/>
+<rect x="130" y="135" width="560" height="390" rx="34" fill="#102233" opacity=".12" transform="rotate(102 410 330)"/>
+<path d="M60 760 C300 560, 600 930, 1120 610" fill="none" stroke="#102233" stroke-width="38" stroke-linecap="round" opacity=".85"/>
+<circle cx="980" cy="700" r="56" fill="#f3b6db"/>
+<text x="70" y="105" fill="#102233" font-family="Arial,Helvetica,sans-serif" font-size="34" letter-spacing="7">PALI / SELECTED WORK</text>
+<text x="74" y="815" fill="#102233" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="700">06</text>
+</svg>
